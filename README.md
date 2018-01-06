@@ -1,4 +1,8 @@
-#AndroidLinkOpen
+#Android-Link-Open
+
+Send Links from Android to PC.
+
+You have to install Firefox befor you can use this Tool.
 
 PC:
 - $ cd src\ PC/
