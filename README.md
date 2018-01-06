@@ -1,13 +1,13 @@
 #AndroidLinkOpen
 
 PC:
-$ cd src\ PC/
-$ javac *
-$ java Main
+- $ cd src\ PC/
+- $ javac *
+- $ java Main
 
 
 
 Syntax:
-java Main [Port] standert 8888
-or
-java Main
+- java Main [Port] standert 8888
+- or
+- java Main
